@@ -1,8 +1,15 @@
-<h2 align="left">Hi 👋! My name is <Sayan/> and I'm a Web Developer...</h2>
+<h2 align="left">Hi 👋! My name is Sayan and I'm a Web Developer...
 
 ###
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/D5603AQFhFxrhhAx8Fw/profile-displayphoto-shrink_400_400/0/1691758464983?e=1712188800&v=beta&t=fLxyi63XXAM9P_Mu3b4sRFn0gucV8AXYAlHNH3Xyzao"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://media.licdn.com/dms/image/D5603AQFhFxrhhAx8Fw/profile-displayphoto-shrink_400_400/0/1691758464983?e=1712188800&v=beta&t=fLxyi63XXAM9P_Mu3b4sRFn0gucV8AXYAlHNH3Xyzao)"  />
 
 ###
 
@@ -73,5 +80,11 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
