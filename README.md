@@ -83,8 +83,6 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Sayan-sss/Sayan-sss/output/snake.svg" alt="Snake animation" />
 
 ###
